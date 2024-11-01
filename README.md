@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CollinsAnalyst
+- 👀 I’m interested in data anaysis,mechanical engineering
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me ngenocollins240@gmail.com
